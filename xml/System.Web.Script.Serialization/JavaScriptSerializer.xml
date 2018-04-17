@@ -11,7 +11,7 @@
   </Base>
   <Interfaces />
   <Docs>
-    <summary>[Json.NET](http://www.newtonsoft.com/json) should be used serialization and deserialization. Provides serialization and deserialization functionality for AJAX-enabled applications.</summary>
+    <summary>The JavaScriptSerializer class is used internally by the asynchronous communication layer to serialize and deserialize the data that is passed between the browser and the Web server.</summary>
     <remarks>
       <format type="text/markdown"><![CDATA[  
   
